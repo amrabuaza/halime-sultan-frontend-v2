@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header" transform="translate(-237.000000, -15.000000)" stroke="#FF562A">
+            <path d="M239.387179,16.8862107 C237.536471,18.7104049 237.538743,21.6817748 239.387179,23.5072594 L246.583463,30.6178923 C246.812346,30.8441798 247.180693,30.8441798 247.409576,30.6178923 C249.811216,28.2506382 252.21031,25.8868109 254.611969,23.5195176 C256.462677,21.6953058 256.462677,18.716534 254.611969,16.8923202 C252.761261,15.0681261 249.768195,15.0680673 247.917467,16.8923202 L247.005684,17.7918655 L246.081681,16.8862107 C245.156327,15.9740941 243.945628,15.5154705 242.73444,15.5154901 C241.523232,15.5154901 240.312533,15.9740941 239.387179,16.8862107 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
